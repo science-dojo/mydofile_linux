@@ -1,0 +1,4 @@
+[tools]
+cmake = "latest"
+zig = "latest"
+zigmod = "latest"
